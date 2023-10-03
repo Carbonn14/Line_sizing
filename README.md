@@ -1,2 +1,12 @@
-# Line_sizing
-To create a line sizing tool
+# Line sizing
+
+To create line sizing tool
+
+## Instructions
+
+1. Install:
+
+```
+pip install Line_sizing
+```
+
